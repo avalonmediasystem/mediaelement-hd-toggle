@@ -1,4 +1,6 @@
-module Mediaelement::HDToggle
-  class Engine < Rails::Engine
+module Mediaelement
+  module HDToggle
+    class Engine < Rails::Engine
+    end
   end
 end
