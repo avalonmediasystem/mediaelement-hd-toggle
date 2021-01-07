@@ -1,6 +1,6 @@
 # Mediaelement::HDToggle
 
-This gem is a mediaelement.js plugin that adds an HD toggle to the control bar. It allows users to toggle between 2 specified qualities. 
+This gem is a mediaelement.js plugin that adds an HD toggle button to the control bar. It allows users to toggle between 2 specified qualities. 
 
 ## Installation
 
